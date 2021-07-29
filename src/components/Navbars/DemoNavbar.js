@@ -112,7 +112,7 @@ class DemoNavbar extends React.Component {
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-ui-04 d-lg-none mr-1" />
-                      <span className="nav-link-inner--text">Components</span>
+                      <span className="nav-link-inner--text">courses</span>
                     </DropdownToggle>
                     <DropdownMenu className="dropdown-menu-xl">
                       <div className="dropdown-menu-inner">
@@ -160,11 +160,10 @@ class DemoNavbar extends React.Component {
                           </div>
                           <Media body className="ml-3">
                             <h5 className="heading text-warning mb-md-1">
-                            Intermediate Software Development course, where you'll learn how to become a well-rounded web developer. It'll be a lot of work and a lot of fun
+                            301
                             </h5>
                             <p className="description d-none d-md-inline-block mb-0">
-                              Browse our 50 beautiful handcrafted components
-                              offered in the Free version.
+                            Intermediate Software Development course, where you'll learn how to become a well-rounded web developer. It'll be a lot of work and a lot of fun
                             </p>
                           </Media>
                         </Media>
