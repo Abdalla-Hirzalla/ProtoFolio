@@ -73,7 +73,7 @@ class Profile extends React.Component {
                       <div className="card-profile-image">
                         <a href="#pablo" onClick={e => e.preventDefault()}>
                           <img
-                            alt="..."
+                            alt="src/assets/img/theme/jeremy-zero-ERPFxsjWul8-unsplash.jpg"
                             className="rounded-circle"
                             src={profile}
                           />

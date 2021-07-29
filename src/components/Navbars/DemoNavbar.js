@@ -126,11 +126,10 @@ class DemoNavbar extends React.Component {
                           </div>
                           <Media body className="ml-3">
                             <h6 className="heading text-primary mb-md-1">
-                              Getting started
+                              102
                             </h6>
                             <p className="description d-none d-md-inline-block mb-0">
-                              Learn how to use Argon compiling Scss, change
-                              brand colors and more.
+                            Intro to Software Development course, where you'll learn the basics of computer programming. It'll be a lot of work and a lot of fun.
                             </p>
                           </Media>
                         </Media>
@@ -144,11 +143,10 @@ class DemoNavbar extends React.Component {
                           </div>
                           <Media body className="ml-3">
                             <h6 className="heading text-primary mb-md-1">
-                              Foundation
+                              201
                             </h6>
                             <p className="description d-none d-md-inline-block mb-0">
-                              Learn more about colors, typography, icons and the
-                              grid system we used for Argon.
+                            Foundations of Software Development course, where you'll learn the fundamentals of becoming a well-rounded web developer. It'll be a lot of work and a lot of fun.
                             </p>
                           </Media>
                         </Media>
@@ -162,7 +160,7 @@ class DemoNavbar extends React.Component {
                           </div>
                           <Media body className="ml-3">
                             <h5 className="heading text-warning mb-md-1">
-                              Components
+                            Intermediate Software Development course, where you'll learn how to become a well-rounded web developer. It'll be a lot of work and a lot of fun
                             </h5>
                             <p className="description d-none d-md-inline-block mb-0">
                               Browse our 50 beautiful handcrafted components
